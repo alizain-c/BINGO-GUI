@@ -20,7 +20,6 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 import javax.swing.JOptionPane;
-//import java.awt.Component;
 
 public class BingoJavaFxGUI extends Application {
     int index1 = 0;
