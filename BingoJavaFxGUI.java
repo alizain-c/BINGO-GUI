@@ -1,8 +1,5 @@
 /* 
 Ali Zain Charolia
-COSC 1437
-Ms. Saqer
-Final Project Spring 2020 - Bingo
 
 Description: 
 This User-Friendly program is for a BINGO game between two players made with Java and the implementation of GUI using JavaFX. 
